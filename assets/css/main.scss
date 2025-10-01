@@ -107,3 +107,15 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 全局字体和布局放大到 125% */
+html {
+    font-size: 125%;   /* 默认16px → 20px */
+    line-height: 1.6;  /* 保持良好阅读体验 */
+  }
+  
+  body {
+    transform: scale(1);  /* 确保不重复缩放 */
+    transform-origin: top center;
+  }
+  
