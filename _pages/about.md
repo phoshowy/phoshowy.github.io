@@ -25,7 +25,7 @@ redirect_from:
 
 
 # 🔥 News
-- Nothing has happened recently.
+- Nothing has happened recently.🫡
 
 # 📝 Publications 
 
