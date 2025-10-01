@@ -29,19 +29,36 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- 
-[MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification](https://arxiv.org/pdf/2509.25082)
+<div class="paper-box">
 
-**Xiaoyi Huang**, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo
+<!-- 图片单独一行 -->
+<div class="paper-box-image">
+  <div>
+    <div class="badge">arxiv</div>
+    <img src="images/pipeline.png" alt="sym" width="100%">
+  </div>
+</div>
+
+<!-- 文章信息 -->
+<div class="paper-box-text" markdown="1">
+
+[**MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification**](https://arxiv.org/pdf/2509.25082)
+
+**Xiaoyi Huang**, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo  
+
+</div>
+
+<!-- 贡献 -->
+<div class="paper-box-text" markdown="1">
 
 **Contributions**
 - We further reveal distributional differences between adversarial and clean samples in the magnitude spectrum.
 - The proposed MANI-Pure framework combines magnitude-adaptive diffusion with frequency-domain purification, achieving a principled balance between semantic fidelity and perturbation mitigation.
 - Extensive experiments across datasets, attacks, and backbones demonstrate the superiority of our method. 
+
 </div>
 </div>
+
 
 # 📖 Educations
 - *2024.09 - now*, Xiamen University, Institute of Artificial Intelligence, Artificial Intelligence, Intelligent Multimedia Laboratory. 
