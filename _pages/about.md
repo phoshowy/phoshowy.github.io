@@ -31,21 +31,21 @@ redirect_from:
 
 <div class="paper-box">
 
-<!-- 图片单独一行 -->
+<!-- 标题 + 作者 -->
+<div class="paper-box-text" markdown="1">
+
+[**MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification**](https://arxiv.org/pdf/2509.25082)  
+
+**Xiaoyi Huang**, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo  
+
+</div>
+
+<!-- 图片 -->
 <div class="paper-box-image">
   <div>
     <div class="badge">arxiv</div>
     <img src="images/pipeline.png" alt="sym" width="100%">
   </div>
-</div>
-
-<!-- 文章信息 -->
-<div class="paper-box-text" markdown="1">
-
-[**MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification**](https://arxiv.org/pdf/2509.25082)
-
-**Xiaoyi Huang**, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo  
-
 </div>
 
 <!-- 贡献 -->
@@ -57,7 +57,9 @@ redirect_from:
 - Extensive experiments across datasets, attacks, and backbones demonstrate the superiority of our method. 
 
 </div>
+
 </div>
+
 
 
 # 📖 Educations
@@ -65,15 +67,9 @@ redirect_from:
 - *2020.09 - 2024.06*, Fuzhou University, School of Computer Science and Big Data, Data Science and Big Data Technology, Bachelor of Engineering.
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ # 🎖 Honors and Awards
+- *2023.05*  **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM) 
+- *2023.07* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
