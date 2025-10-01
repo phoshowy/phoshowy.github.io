@@ -29,36 +29,31 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class="paper-box">
-
-<!-- 标题 + 作者 -->
-<div class="paper-box-text" markdown="1">
-
-[**MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification**](https://arxiv.org/pdf/2509.25082)  
-
-**Xiaoyi Huang**, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo  
-
+<!-- 标题和作者 -->
+<div style="margin-bottom:1em;">
+  <p>
+    <a href="https://arxiv.org/pdf/2509.25082">
+      <b>MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial Purification</b>
+    </a>
+  </p>
+  <p><b>Xiaoyi Huang</b>, Junwei Wu, Kejia Zhang, Carl Yang, Zhiming Luo</p>
 </div>
 
 <!-- 图片 -->
-<div class="paper-box-image">
-  <div>
-    <div class="badge">arxiv</div>
-    <img src="images/pipeline.png" alt="sym" width="100%">
-  </div>
+<div style="text-align:center; margin:1em 0;">
+  <img src="images/pipeline.png" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
 </div>
 
 <!-- 贡献 -->
-<div class="paper-box-text" markdown="1">
-
-**Contributions**
-- We further reveal distributional differences between adversarial and clean samples in the magnitude spectrum.
-- The proposed MANI-Pure framework combines magnitude-adaptive diffusion with frequency-domain purification, achieving a principled balance between semantic fidelity and perturbation mitigation.
-- Extensive experiments across datasets, attacks, and backbones demonstrate the superiority of our method. 
-
+<div style="margin-top:1em;">
+  <b>Contributions</b>
+  <ul>
+    <li>We further reveal distributional differences between adversarial and clean samples in the magnitude spectrum.</li>
+    <li>The proposed MANI-Pure framework combines magnitude-adaptive diffusion with frequency-domain purification, achieving a principled balance between semantic fidelity and perturbation mitigation.</li>
+    <li>Extensive experiments across datasets, attacks, and backbones demonstrate the superiority of our method.</li>
+  </ul>
 </div>
 
-</div>
 
 
 
@@ -67,7 +62,7 @@ redirect_from:
 - *2020.09 - 2024.06*, Fuzhou University, School of Computer Science and Big Data, Data Science and Big Data Technology, Bachelor of Engineering.
 
 
- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2023.05*  **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM) 
 - *2023.07* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
 
