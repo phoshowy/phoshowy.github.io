@@ -61,7 +61,6 @@ redirect_from:
 - *2024.09 - now*, Xiamen University, Institute of Artificial Intelligence, Artificial Intelligence, Intelligent Multimedia Laboratory. 
 - *2020.09 - 2024.06*, Fuzhou University, School of Computer Science and Big Data, Data Science and Big Data Technology, Bachelor of Engineering.
 
-
 # 🎖 Honors and Awards
 - *2023.05*  **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM) 
 - *2023.07* **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)
