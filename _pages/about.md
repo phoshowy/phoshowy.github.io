@@ -41,7 +41,38 @@ redirect_from:
 
 <!-- 图片 -->
 <div style="text-align:center; margin:1em 0;">
-  <img src="images/pipeline.png" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
+  <img src="images/pipeline_mani.png" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
+</div>
+
+<!-- 贡献 -->
+<div style="margin-top:1em;">
+  <b>Contributions</b>
+  <ul>
+    <li>We demonstrate that hallucination risks are token-specific rather than uniformly distributed across the sequence. We reveal that contrastive decoding is only essential for specific "vulnerable" steps, providing a empirical basis for efficiency optimization.
+    </li>
+    <li>We propose CHASD, a training-free framework that introduces a spatio-temporal joint constraint. It dynamically couples temporal confidence gating with spatial attention guidance to calibrate only selected low-confidence decoding steps.
+    </li>
+    <li>Extensive evaluations across POPE, AMBER, MME, MMHal-Bench and CHAIR show that CHASD improves hallucination-related metrics over strong training-free baselines. It reduces unnecessary negative-branch forward passes while maintaining competitive generation quality.
+    </li>
+  </ul>
+</div>
+
+<hr>
+
+<!--文章2-->
+<div style="margin-bottom:1em;">
+  <p>
+    <a href="">
+      <b>CHASD: Language Increment-Calibrated Contrastive
+Decoding against Hallucination in LVLMs</b>
+    </a>
+  </p>
+  <p><b>Xiaoyi Huang</b>, Kejia Zhang, Zhiming Luo</p>
+</div>
+
+<!-- 图片 -->
+<div style="text-align:center; margin:1em 0;">
+  <img src="images/pipeline_chasd.pdf" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
 </div>
 
 <!-- 贡献 -->
@@ -53,7 +84,6 @@ redirect_from:
     <li>Extensive experiments across datasets, attacks, and backbones demonstrate the superiority of our method.</li>
   </ul>
 </div>
-
 
 
 
