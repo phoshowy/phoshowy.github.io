@@ -72,7 +72,7 @@ Decoding against Hallucination in LVLMs</b>
 
 <!-- 图片 -->
 <div style="text-align:center; margin:1em 0;">
-  <img src="images/pipeline_chasd.pdf" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
+  <img src="images/pipeline_chasd.png" alt="sym" style="max-width:500px; box-shadow:3px 3px 6px #888;">
 </div>
 
 <!-- 贡献 -->
