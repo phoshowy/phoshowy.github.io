@@ -22,10 +22,11 @@ redirect_from:
 
 ### I earned my Bachelor of Engineering degree in Data Science and Big Data Technology from the School of Computer Science and Big Data at Fuzhou University. I am now pursuing my master's degree at the Intelligent Multimedia Laboratory at Xiamen University under the guidance of Associate Professor [Zhiming Luo](https://scholar.google.com/citations?user=RdRCIIYAAAAJ&hl=en).
 
+# 📖 Educations
+- *2024.09 - now*, Xiamen University, Institute of Artificial Intelligence, Artificial Intelligence, Intelligent Multimedia Laboratory. 
+- *2020.09 - 2024.06*, Fuzhou University, School of Computer Science and Big Data, Data Science and Big Data Technology, Bachelor of Engineering.
 
 
-# 🔥 News
-- Nothing has happened recently.🫡
 
 # 📝 Publications 
 
@@ -87,9 +88,8 @@ Decoding against Hallucination in LVLMs</b>
 
 
 
-# 📖 Educations
-- *2024.09 - now*, Xiamen University, Institute of Artificial Intelligence, Artificial Intelligence, Intelligent Multimedia Laboratory. 
-- *2020.09 - 2024.06*, Fuzhou University, School of Computer Science and Big Data, Data Science and Big Data Technology, Bachelor of Engineering.
+# 🔥 News
+- Nothing has happened recently.🫡
 
 # 🎖 Honors and Awards
 - *2023.05*  **Meritorious Winner**, Mathematical Contest in Modeling (MCM/ICM) 
